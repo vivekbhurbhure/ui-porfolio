@@ -1,0 +1,24 @@
+{
+  "name": "ui-porfolio",
+  "version": "1.0.0",
+  "description": "My portfolio web site",
+  "keywords": [
+    "Vivek",
+    "Bhurbhure"
+  ],
+  "homepage": "https://github.com/vivekbhurbhure/ui-porfolio#readme",
+  "bugs": {
+    "url": "https://github.com/vivekbhurbhure/ui-porfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekbhurbhure/ui-porfolio.git"
+  },
+  "license": "ISC",
+  "author": "Vivek Bhurbhure",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
